@@ -29,30 +29,30 @@ The extended analysis is provided here due to the journal's page limit.
 
 <img width="634" height="528" alt="Cluster-Level MI" src="https://github.com/user-attachments/assets/b2f3fa6c-9008-481d-9242-02a4f8fad038" />
 
-### Ethnicity-wise Violin Plot
+### Ethnicity-wise Violin Plots
 
-#### Violin Plot for Southeast Asian_dep
+#### Violin Plot for Southeast Asian_depression
 <img width="2695" height="1952" alt="Violin Plot for Southeast Asian_dep" src="https://github.com/user-attachments/assets/2905f8b7-6a84-4ccf-891f-84dbdfe497f3" />
 
-#### Violin Plot for Southeast Asian_anx
+#### Violin Plot for Southeast Asian_anxiety
 <img width="2391" height="1952" alt="Violin Plot for Southeast Asian_anx" src="https://github.com/user-attachments/assets/16e35329-1fbd-47f2-9104-4eeb47421b61" />
 
-#### Violin Plot for South Asian_dep
+#### Violin Plot for South Asian_depression
 <img width="2580" height="1952" alt="Violin Plot for South Asian_dep" src="https://github.com/user-attachments/assets/dc31bf65-26c9-4aee-8b95-64486d750823" />
 
-#### Violin Plot for South Asian_anx
+#### Violin Plot for South Asian_anxiety
 <img width="2391" height="1952" alt="Violin Plot for South Asian_anx" src="https://github.com/user-attachments/assets/ca20ff9f-5acd-4105-85c7-0b17ed86e064" />
 
-#### Violin Plot for Filipina_dep
+#### Violin Plot for Filipina_depression
 <img width="2391" height="1952" alt="Violin Plot for Filipina_dep" src="https://github.com/user-attachments/assets/7bfa22bf-2340-4739-b8a1-1151c8183b95" />
 
-#### Violin Plot for Filipina_anx
+#### Violin Plot for Filipina_anxiety
 <img width="2580" height="1952" alt="Violin Plot for Filipina_anx" src="https://github.com/user-attachments/assets/9e9fafa8-040b-412f-84d2-f32ae8da29a3" />
 
-#### Violin Plot for East Asian_dep
+#### Violin Plot for East Asian_depression
 <img width="2391" height="1952" alt="Violin Plot for East Asian_dep" src="https://github.com/user-attachments/assets/33b88c34-cbb4-4290-89c1-319bd7c7eb1a" />
 
-#### Violin Plot for East Asian_anx
+#### Violin Plot for East Asian_anxiety
 <img width="2391" height="1952" alt="Violin Plot for East Asian_anx" src="https://github.com/user-attachments/assets/aebb22c6-60da-479b-947f-22b60e0f949b" />
 
 
